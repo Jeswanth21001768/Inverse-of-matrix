@@ -23,8 +23,8 @@ Print the inverse of the array using np.linalg.inv
 ## PROGRAM:
 ~~~
 To write a python program to find the inverse of the matrix.
-Developed by: HARSHAVARDHINI M
-Register no: 212221240015
+Developed by: Jeswanth.s
+Register no: 212221230042
 
 import numpy as np
 no_of_rows=int(input())
